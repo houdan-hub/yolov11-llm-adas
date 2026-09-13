@@ -243,9 +243,9 @@ This project was the culmination of an 18-day (108-hour) production internship c
 
 ## Author
 
-**Tianbo Hou (Peter)**  
+**Tianbo Hou (Theo)**  
 - M.S. in Data Science, University of Southern California (2026 Fall)
-- B.E. in Software Engineering, Hubei University of Technology (GPA 3.93/4.0)
+- B.E. in Software Engineering, Hubei University of Technology (GPA 3.9)
 - Experience: Tencent, Neusoft, WorldQuant, Sciencia AI
 
 ---
