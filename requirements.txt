@@ -1,0 +1,35 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.3.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+imutils>=0.5.4
+
+# GUI
+PyQt5>=5.15.0
+PyQt5-Qt5>=5.15.0
+PyQt5-sip>=12.12.0
+
+# LLM API
+openai>=1.0.0
+
+# Visualization
+matplotlib>=3.7.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# GPU Monitoring
+GPUtil>=1.4.0
+
+# OCR (for license plate recognition module)
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0
+
+# Utilities
+python-dotenv>=1.0.0
